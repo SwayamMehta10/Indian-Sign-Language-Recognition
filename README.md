@@ -1,5 +1,5 @@
 # Indian-Sign-Language-Recognition
-An AI-based project for Indian Sign Language Recognition. Using the detection model we created using Convoluted Neural Networks, we were able to achieve 98% accuracy which is quite good compared to other studies that have been done previously in this domain. 
+This is an AI-based project for Indian Sign Language Recognition. We created a detection model using Convoluted Neural Networks that was able to achieve 98% accuracy which is quite good compared to other studies that have been done previously in this domain. 
 
 ### Custom Database
 We have also developed an easy way for creating a custom database of ISL hand gestures which can be contributed back to the open-source community and used in future projects. 
